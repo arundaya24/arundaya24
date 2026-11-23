@@ -28,9 +28,16 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arundaya24&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true&commits_year=2026&cache_seconds=1800" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundaya24&layout=compact&theme=github_dark&hide_border=true" />
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=arundaya24&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true&commits_year=2026&cache_seconds=1800" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundaya24&layout=compact&theme=github_dark&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
 
 </div>
 
