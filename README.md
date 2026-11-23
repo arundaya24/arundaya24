@@ -6,7 +6,7 @@
 
 </div>
 
-## `$ whoami`
+## `who am i?`
 
 I'm a Software Engineering student (PPLG) interested in backend development, full-stack development, and software engineering.
 
@@ -15,7 +15,7 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 - Interested in IoT, robotics, and software architecture.
 - Learning by building real projects.
 
-## `$ tech-stack`
+## `tech stack`
 
 <div align="center">
 
@@ -23,7 +23,7 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 
 </div>
 
-## `$ github-stats`
+## `github stats`
 
 <div align="center">
 
@@ -33,7 +33,7 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 
 </div>
 
-## `$ contribution-activity`
+## `contribution activity`
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 
 </div>
 
-## `$ contribution-snake`
+## `contribution snake`
 
 <div align="center">
 
