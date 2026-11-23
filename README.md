@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kalingga&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" />
@@ -27,7 +28,7 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arundaya24&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arundaya24&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true&commits_year=2026&cache_seconds=1800" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundaya24&layout=compact&theme=github_dark&hide_border=true" />
 
