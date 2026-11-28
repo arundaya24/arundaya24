@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:555555,100:808080&height=200&section=header&text=Kalingga&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:252525,50:555555,100:909090&height=200&section=header&text=Kalingga&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kalingga.;Self-taught+Developer.;Building+things+with+code.;Always+learning+something+new." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kalingga.;Self-taught+Developer.;Building+things+with+code.;Always+learning+something+new." />
 </div>
 
 <br>
@@ -73,5 +73,5 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:555555,100:808080&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:252525,50:555555,100:909090&height=100&section=footer" width="100%" />
 </div>
