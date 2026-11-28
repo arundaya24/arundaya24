@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kalingga&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:555555,100:808080&height=200&section=header&text=Kalingga&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" />
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kalingga.;Self-taught+Developer.;Building+things+with+code.;Always+learning+something+new." />
 </div>
+
+<br>
 
 ## `who am i?`
 
@@ -13,11 +15,15 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
 - Interested in IoT, robotics, and software architecture.
 - Learning by building real projects.
 
+<br>
+
 ## `tech stack`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,js,python,cpp,laravel,react,flutter,tailwind,bootstrap,mysql,git,github,vscode,arduino" />
 </div>
+
+<br>
 
 ## `github stats`
 
@@ -34,11 +40,29 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
   </table>
 </div>
 
-## `contribution activity`
+<br>
+
+## `coding philosophy`
 
 <div align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/arundaya24" width="100%" />
+
+<br>
+
+### *Di sisa kewarasannya, ia merangkai aksara di tengah badai logika.*
+
+### *Ketika sang mesin kehabisan suara, jemarinya dipaksa menjadi algoritma.*
+
+<br>
+
+### *In the remnants of his sanity, he weaves letters amid a storm of logic.*
+
+### *When the machine runs out of words, his fingers are forced to become algorithms.*
+
+<br>
+
 </div>
+
+<br>
 
 ## `contribution snake`
 
@@ -46,6 +70,8 @@ I'm a Software Engineering student (PPLG) interested in backend development, ful
   <img src="https://raw.githubusercontent.com/arundaya24/arundaya24/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:555555,100:808080&height=100&section=footer" width="100%" />
 </div>
